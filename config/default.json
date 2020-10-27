@@ -1,0 +1,3 @@
+{
+    "mongoURL": "mongodb+srv://api:123@cluster0.3scnd.mongodb.net/apiTest?retryWrites=true&w=majority"
+}
